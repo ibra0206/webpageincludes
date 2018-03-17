@@ -1,0 +1,16 @@
+*{
+  padding:0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body{
+  font-size: 100%;
+  font-family:
+}
+body.day{
+  background-color: deeppink;
+}
+body.night{
+ background-color: darkblue;
+}
+/* plus any other CSS you want */
